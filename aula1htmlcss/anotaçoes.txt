@@ -1,0 +1,41 @@
+advinhe o numero que estou pensando é um numero entre 1 e 2000
+
+voce pode perguntar o numero, e eu vou respoonder de tres formas diferentes:
+
+- correto (acertou)
+- MAIOR (se voce falou um numero pequeno)
+- MENOR (se voce falou um numero muito grande)
+
+///////////////
+
+lembrar q o menor possivel é 1
+lembrar que o maior possivel é 2 mil
+lembrar que o palpiite é 1000.
+perguntar se o palpite esta correto.
+
+enquanto (palpite errado) repetir:
+se a resposta for maior :
+lembrar qe o menor numero agora é o palpite
+senao
+lembrar que o maior numero agora é o palipite
+lembrar que o palipite agora é o maior numero do intervalo menos o Menor numero do 
+intervalo, mais um, dividido por dois arrodondado para cima e entao somando no menor nuemro do intervalo
+
+//////////////////////////
+
+inicio HMTL
+
+
+<tags - semanticas - substituem a "DIV">
+
+header
+footer
+section
+article
+nav
+aside
+ 
+
+
+
+
