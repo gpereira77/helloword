@@ -1,0 +1,55 @@
+1.Decisão:
+
+LER A SENHA
+LER O LOGIN
+
+SE ("CONDIÇÃO" (A CONTA EXISTIR) E A SENHA ESTA CORRETA):
+AUTORIZAR:
+SENÃO:
+NAO AUTORIZAR 
+
+
+2. REPETIÇÃO
+
+
+
+ENQUANTO
+
+ALGORITIMO DE BUSCA 
+
+
+gitbash
+
+pwd = onde estou
+
+cd = navega nas pastas 
+
+ls= lista as pastas
+
+rm -rf .git == removendo uma pasta .git
+
+cd .. = volta para a pasta anterior
+
+git init = cria arquivo de GIT 
+
+git status = veja o status do arquivo
+
+git add (nome do arquivo) = adiciona o aruqivo no rastreamento do git
+
+git diff = ver oque mudou
+
+git log =  ve os arquivos no diretorio do meu git , sóoaparece quando damo sum commit
+
+ git config user.name "GabrielPereira" =mostrando ao git o ususario 
+
+ git config user.email "gappprp@gmail.com" mostrando ao git o email
+
+git commit = salva o arquivo , apos isso abre a tela de editor.. abrindo tecla a letra "a" , e escreva o porque da modificação
+            apos escrever tecle ":" e "x" e enter 
+sempre lembro para comentar responder : para que serve este commit  
+
+git commit --amned = para corrigir o ultimo commit
+
+git show + o registro do commit = mostra quais alteraçoes foram feitas  neste commit
+
+

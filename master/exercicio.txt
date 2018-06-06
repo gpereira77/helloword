@@ -1,0 +1,18 @@
+EXERCICIO 1:
+
+VOCE TEM UM BARALHO EMBARALHADO. VOCE NAO SABE QUANTAS CARTAS TEM O BARALHO, NEM QUAIS SÃO AS CARTAS DISPONIVEIS. A TAREFA
+É: ENCONTRAR UM 3 DE COPAS NO BARALHHO. SE ENONTRAR, DIZER QYE ENCONTROU SE NAO DIZER NAO ENCONTRO.
+
+peguntar a carta que a pessoa esta procurando  
+
+
+coloque o baralho sobre a mesa
+
+enquanto (houverrem cartas sobre a mesa)repetir:
+-pegar  uma proxima carta na mesa 
+-se (carta pega tiver um 3 ) e (a carte tiver um coração):
+  responder necoontrou 
+  parar
+  senao: descartar a carta no lixo.
+
+  responder: nao encontrou
